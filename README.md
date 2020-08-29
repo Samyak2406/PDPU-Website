@@ -1,9 +1,9 @@
-# PDPU-Website (With HTML & CSS)
+# PDPU-Website (With HTML & CSS only)
 
-## Use Chrome on Desktop For Preview only
-
-Contributors:
-Parth Choksi
-Samyak Vora
-Smit Patel
+## Contributors:
+Parth Choksi\
+Samyak Vora\
+Smit Patel\
 Vraj Shah
+
+Note: Use Chrome on Desktop For Preview 
